@@ -72,7 +72,7 @@ nav {
  
  header {
    background-image: url(images/florence.jpg);
-   backgroud-size: cover;
+   
    width: 100%;
    min-height: 500px;
  }
@@ -135,7 +135,7 @@ nav {
  
  .card {
  
-   float: left;
+   
  
    display: inline-block;
  
