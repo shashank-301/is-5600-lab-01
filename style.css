@@ -9,7 +9,7 @@ body, section, header, div, p, h1, h2, h3, ul, li, figure, figcaption {
 body {
    font-family: 'Open Sans', sans-serif;
    box-sizing: border-box;
-   background-color: #F0F4F8;
+   background-color: #c7dcf1;
    font-weight: 300;
 }
 
@@ -46,7 +46,7 @@ nav {
  
  nav a {
  
-   color: #4f337e;
+   color: #694d99;
  
    text-decoration: none;
  
